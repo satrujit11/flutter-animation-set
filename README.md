@@ -4,7 +4,7 @@
 
 **[Lanuage ~~]** [English](README.md) | [中文文档](README_CN.md)
 
-Simplified Flutter stagger animation.To drive the Flutter stagger animation through a timeline in the form of an animation configuration.You can
+Simplified Flutter stagger animation,to drive the Flutter stagger animation through a timeline in the form of an animation configuration.You can
 
 1. Uses the existing Animation Widget of `Flutter Animation Set`
 2. Use `Flutter Animation Set` to create a new Animation Widget
