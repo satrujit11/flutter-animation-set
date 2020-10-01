@@ -1,10 +1,10 @@
-# ✨ Flutter Animation Set
+satrujit11-patch-1satrujit11-patch-1# ✨ Flutter Animation Set
 
 [![pub package](https://img.shields.io/pub/v/flutter_animation_set.svg)](https://pub.dev/packages/flutter_animation_set)
 
 **[Lanuage ~~]** [English](README.md) | [中文文档](README_CN.md)
 
-Simplified Flutter stagger animation.To drive the Flutter stagger animation through a timeline in the form of an animation configuration.You can
+Simplified Flutter stagger animation, to drive the Flutter stagger animation through a timeline in the form of an animation configuration.You can
 
 1. Uses the existing Animation Widget of `Flutter Animation Set`
 2. Use `Flutter Animation Set` to create a new Animation Widget
